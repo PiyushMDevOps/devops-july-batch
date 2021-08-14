@@ -1,0 +1,5 @@
+#!/bin/sh
+
+exec vim "$@"
+
+kubernetes manifest file added by user2
